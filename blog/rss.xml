@@ -4,10 +4,21 @@
         <title>宣宣 Blog</title>
         <link>https://cuiqiqiqi.github.io/blog</link>
         <description>宣宣 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[尴尬事]]></title>
+            <link>https://cuiqiqiqi.github.io/blog/happy</link>
+            <guid>https://cuiqiqiqi.github.io/blog/happy</guid>
+            <pubDate>Sun, 27 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天我又开始丢人了，谁知道什么情况，老是在群里发莫名奇妙的东西]]></description>
+            <content:encoded><![CDATA[<p>今天我又开始丢人了，谁知道什么情况，老是在群里发莫名奇妙的东西</p>]]></content:encoded>
+            <category>随笔</category>
+            <category>诗</category>
+            <category>宣宣</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://cuiqiqiqi.github.io/blog/welcome</link>
